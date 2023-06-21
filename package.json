@@ -1,0 +1,22 @@
+{
+  "name": "my-food-app-react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "author": "Devanand",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "4.5.0",
+    "parcel": "^2.9.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "process": "^0.11.10"
+  }
+}
